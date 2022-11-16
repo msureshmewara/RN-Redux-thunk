@@ -20,8 +20,8 @@ function App() {
 const styles = StyleSheet.create({
   app: {
     marginHorizontal: "auto",
-    maxWidth: "100%"
-  }
+    maxWidth: "100%",
+  },
 });
 
 export default App;
